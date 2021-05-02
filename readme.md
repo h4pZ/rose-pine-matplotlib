@@ -13,8 +13,8 @@
 
 ## Usage
 
-1. Find your `mpl_configdir/stylelib` with `matplotlib.get_configdir()`.
-2. Place the themes from `themes` folder into your `mpl_configdir/stylelib`.
+1. Find your `mpl_configdir/stylelib` with `matplotlib.get_configdir()`
+2. Place the themes from `themes` folder into your `mpl_configdir/stylelib`
 3. In your script set the preferred style with `plt.style.use('rose-pine')`
 
 ## Gallery
