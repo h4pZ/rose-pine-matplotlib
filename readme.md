@@ -17,6 +17,8 @@
 2. Place the themes from `themes` folder into your `mpl_configdir/stylelib`
 3. In your script set the preferred style with `plt.style.use('rose-pine')`
 
+**Note:** The gallery below uses [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+
 ## Gallery
 
 ### Rosé Pine 
