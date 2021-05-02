@@ -21,8 +21,6 @@
 
 ### Rosé Pine 
 
-**Accent**
-
 ![Rosé Pine style-sheet-rp](assets/rose-pine/style-sheet-rp.png)
 ![Rosé Pine boxplot-rp](assets/rose-pine/boxplot-rp.png)
 ![Rosé Pine scatterplot-rp](assets/rose-pine/scatterplot-rp.png)
@@ -30,16 +28,12 @@
 
 ### Rosé Pine Moon
 
-**Accent**
-
 ![Rosé Pine style-sheet-rpm](assets/rose-pine/style-sheet-rpm.png)
 ![Rosé Pine boxplot-rpm](assets/rose-pine/boxplot-rpm.png)
 ![Rosé Pine scatterplot-rpm](assets/rose-pine/scatterplot-rpm.png)
 ![Rosé Pine polar-axis-rpm](assets/rose-pine/polar-axis-rpm.png)
 
 ### Rosé Pine Dawn
-
-**Accent**
 
 ![Rosé Pine style-sheet-rpd](assets/rose-pine/style-sheet-rpd.png)
 ![Rosé Pine boxplot-rpd](assets/rose-pine/boxplot-rpd.png)
