@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Matplotlib</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,40 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Find your `mpl_configdir/stylelib` with `matplotlib.get_configdir()`.
+2. Place the themes from `themes` folder into your `mpl_configdir/stylelib`.
+3. In your script set the preferred style with `plt.style.use('rose-pine')`
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+### Rosé Pine 
+
+**Accent**
+
+![Rosé Pine style-sheet-rp](assets/rose-pine/style-sheet-rp.png)
+![Rosé Pine boxplot-rp](assets/rose-pine/boxplot-rp.png)
+![Rosé Pine scatterplot-rp](assets/rose-pine/scatterplot-rp.png)
+![Rosé Pine polar-axis-rp](assets/rose-pine/polar-axis-rp.png)
+
+### Rosé Pine Moon
+
+**Accent**
+
+![Rosé Pine style-sheet-rpm](assets/rose-pine/style-sheet-rpm.png)
+![Rosé Pine boxplot-rpm](assets/rose-pine/boxplot-rpm.png)
+![Rosé Pine scatterplot-rpm](assets/rose-pine/scatterplot-rpm.png)
+![Rosé Pine polar-axis-rpm](assets/rose-pine/polar-axis-rpm.png)
+
+### Rosé Pine Dawn
+
+**Accent**
+
+![Rosé Pine style-sheet-rpd](assets/rose-pine/style-sheet-rpd.png)
+![Rosé Pine boxplot-rpd](assets/rose-pine/boxplot-rpd.png)
+![Rosé Pine scatterplot-rpd](assets/rose-pine/scatterplot-rpd.png)
+![Rosé Pine polar-axis-rpd](assets/rose-pine/polar-axis-rpd.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [h4pZ](https://github.com/h4pz)
 
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
