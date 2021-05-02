@@ -28,17 +28,17 @@
 
 ### Rosé Pine Moon
 
-![Rosé Pine style-sheet-rpm](assets/rose-pine/style-sheet-rpm.png)
-![Rosé Pine boxplot-rpm](assets/rose-pine/boxplot-rpm.png)
-![Rosé Pine scatterplot-rpm](assets/rose-pine/scatterplot-rpm.png)
-![Rosé Pine polar-axis-rpm](assets/rose-pine/polar-axis-rpm.png)
+![Rosé Pine style-sheet-rpm](assets/rose-pine-moon/style-sheet-rpm.png)
+![Rosé Pine boxplot-rpm](assets/rose-pine-moon/boxplot-rpm.png)
+![Rosé Pine scatterplot-rpm](assets/rose-pine-moon/scatterplot-rpm.png)
+![Rosé Pine polar-axis-rpm](assets/rose-pine-moon/polar-axis-rpm.png)
 
 ### Rosé Pine Dawn
 
-![Rosé Pine style-sheet-rpd](assets/rose-pine/style-sheet-rpd.png)
-![Rosé Pine boxplot-rpd](assets/rose-pine/boxplot-rpd.png)
-![Rosé Pine scatterplot-rpd](assets/rose-pine/scatterplot-rpd.png)
-![Rosé Pine polar-axis-rpd](assets/rose-pine/polar-axis-rpd.png)
+![Rosé Pine style-sheet-rpd](assets/rose-pine-dawn/style-sheet-rpd.png)
+![Rosé Pine boxplot-rpd](assets/rose-pine-dawn/boxplot-rpd.png)
+![Rosé Pine scatterplot-rpd](assets/rose-pine-dawn/scatterplot-rpd.png)
+![Rosé Pine polar-axis-rpd](assets/rose-pine-dawn/polar-axis-rpd.png)
 
 ## Thanks to
 
