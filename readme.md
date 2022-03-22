@@ -41,8 +41,3 @@
 ![Rosé Pine boxplot-rpd](assets/rose-pine-dawn/boxplot-rpd.png)
 ![Rosé Pine scatterplot-rpd](assets/rose-pine-dawn/scatterplot-rpd.png)
 ![Rosé Pine polar-axis-rpd](assets/rose-pine-dawn/polar-axis-rpd.png)
-
-## Thanks to
-
-- [h4pZ](https://github.com/h4pz)
-
